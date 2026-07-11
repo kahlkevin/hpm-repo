@@ -1,0 +1,25 @@
+{
+  "packageName": "Inovelli Dimmer White Series VTM31-SN",
+  "author": "Kevin Kahl",
+  "version": "0.4.0",
+  "minimumHEVersion": "2.5.0",
+  "dateReleased": "2026-07-11",
+  "drivers": [
+    {
+      "id": "07cc67de-325c-4425-a66b-20b99743d70b",
+      "name": "Inovelli Dimmer White VTM31-SN",
+      "namespace": "casarita",
+      "location": "https://github.com/kahlkevin/hubitat-casarita-inovelli_vtm31sn/releases/download/v0.4.0/final-driver-DimmerVTM31-SN.groovy",
+      "required": true,
+      "version": "0.4.0"
+    },
+    {
+      "id": "01bb53d3-1d68-4f07-b140-14e72004f176",
+      "name": "Inovelli RGBW Notification Bar White",
+      "namespace": "casarita",
+      "location": "https://github.com/kahlkevin/hubitat-casarita-inovelli_vtm31sn/releases/download/v0.4.0/final-driver-NotificationBarRGBW.groovy",
+      "required": true,
+      "version": "0.4.0"
+    }
+  ]
+}

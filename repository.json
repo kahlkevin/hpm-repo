@@ -1,0 +1,16 @@
+{
+  "author": "Kevin Kahl",
+  "gitHubUrl": "https://github.com/kahlkevin",
+  "packages": [
+    {
+      "id": "810329c5-4b25-47e3-a067-d7496a6608a6",
+      "name": "Inovelli Dimmer White Series VTM31-SN",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/kahlkevin/hpm-repo/main/inovelli_vtm31sn.json",
+      "description": "Inovelli Dimmer White Series VTM31-SN Driver",
+      "tags": [
+        "Matter"
+      ]
+    }
+  ]
+}
