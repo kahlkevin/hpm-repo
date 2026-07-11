@@ -7,8 +7,10 @@
       "name": "Inovelli Dimmer White Series VTM31-SN",
       "category": "Integrations",
       "location": "https://raw.githubusercontent.com/kahlkevin/hpm-repo/main/inovelli_vtm31sn.json",
-      "description": "Inovelli Dimmer White Series VTM31-SN Driver",
+      "description": "Driver package for Inovelli Dimmer White Series VTM31-SN. Supports full parameter and LED notification bar configuration.",
       "tags": [
+        "Energy Monitoring",
+        "Lights & Switches",
         "Matter"
       ]
     }
