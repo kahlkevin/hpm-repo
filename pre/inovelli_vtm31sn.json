@@ -4,7 +4,7 @@
   "version": "1.1.0",
   "minimumHEVersion": "2.5.0",
   "dateReleased": "2026-07-22",
-  "licenseFile": "https://github.com/kahlkevin/hubitat-casarita-inovelli_vtm31sn/blob/main/LICENSE",
+  "licenseFile": "https://raw.githubusercontent.com/kahlkevin/hubitat-casarita-inovelli_vtm31sn/main/LICENSE",
   "communityLink": "https://community.hubitat.com/t/release-inovelli-white-series-vtm31-sn-matter-community-driver/165102",
   "releaseNotes": "A focused follow-up to the initial release, shaped by early community feedback.\n\n- Power and energy reporting. Disable reporting, report every change, or coalesce routine reports over a selected interval. Coalescing reduces event traffic during steady operation while keeping on/off changes and Refresh responsive.\n- Quieter logs. Unchanged attribute values are no longer repeated in informational logs.",
   "drivers": [
