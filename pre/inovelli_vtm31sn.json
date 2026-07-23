@@ -6,7 +6,7 @@
   "dateReleased": "2026-07-22",
   "licenseFile": "https://raw.githubusercontent.com/kahlkevin/hubitat-casarita-inovelli_vtm31sn/main/LICENSE",
   "communityLink": "https://community.hubitat.com/t/release-inovelli-white-series-vtm31-sn-matter-community-driver/165102",
-  "releaseNotes": "This is a focused follow-up to the initial release, shaped by early community feedback.\n\n- Power and energy reporting. Disable reporting, report every change, or coalesce routine reports over a selected interval.\n- Quieter logs. Unchanged attribute values are no longer repeated in informational logs.\n- For details, see https://github.com/kahlkevin/hubitat-casarita-inovelli_vtm31sn/blob/main/CHANGELOG.md",
+  "releaseNotes": "This is a focused follow-up to the initial release, shaped by early community feedback.\n\n- Configurable power and energy reporting: Disable reporting, report every change, or coalesce routine reports over a selected interval.\n- Quieter logs: Unchanged attribute values are no longer repeated in informational logs.\n- For details, see https://github.com/kahlkevin/hubitat-casarita-inovelli_vtm31sn/blob/main/CHANGELOG.md",
   "drivers": [
     {
       "id": "07cc67de-325c-4425-a66b-20b99743d70b",
